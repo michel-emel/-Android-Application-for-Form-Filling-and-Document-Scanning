@@ -80,27 +80,32 @@ ArchiveNext is a mobile application that transforms how organizations handle doc
 - **Multi-Format Support**: View documents in various formats
 
 ### 5. Intelligent Document Management
-<div style="display: inline-block; margin-right: 20px;">
-<p><strong>Before Cloud Sync</strong></p>
-<img src="images/fifth.jpeg" alt="Before Sync" width="250"/>
-</div>
-<div style="display: inline-block;">
-<p><strong>After Cloud Sync</strong></p>
-<img src="images/sixth.jpeg" alt="After Sync" width="250"/>
-</div>
 
-#### Before Sync Features:
-- **Local Storage**: Immediate access to recent documents
-- **Offline Capability**: Work without internet connection
-- **Batch Processing**: Manage multiple documents simultaneously
+<table>
+<tr>
+<td width="50%" align="center"><strong>Before Cloud Sync</strong></td>
+<td width="50%" align="center"><strong>After Cloud Sync</strong></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="images/fifth.jpeg" alt="Before Sync" width="250"/></td>
+<td width="50%" align="center"><img src="images/sixth.jpeg" alt="After Sync" width="250"/></td>
+</tr>
+<tr>
+<td width="50%">
+- **Local Storage**: Immediate access to recent documents<br>
+- **Offline Capability**: Work without internet connection<br>
+- **Batch Processing**: Manage multiple documents simultaneously<br>
 - **Smart Organization**: Automatic document categorization
-
-#### After Sync Features:
-- **Secure Cloud Storage**: Documents safely stored and backed up
-- **Global Access**: Retrieve documents from anywhere
-- **Version History**: Track document changes
-- **Collaboration Ready**: Share documents securely
+</td>
+<td width="50%">
+- **Secure Cloud Storage**: Documents safely stored and backed up<br>
+- **Global Access**: Retrieve documents from anywhere<br>
+- **Version History**: Track document changes<br>
+- **Collaboration Ready**: Share documents securely<br>
 - **Auto-Sync**: Seamless synchronization when connected
+</td>
+</tr>
+</table>
 
 ### Key UI Benefits
 - **Minimal Training Required**: Intuitive design reduces onboarding time
