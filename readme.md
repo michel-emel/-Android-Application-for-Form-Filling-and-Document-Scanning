@@ -1,6 +1,3 @@
-Here’s an updated and professional version of your `README.md`, incorporating the video placement, your use of React Native Expo, and ML Kit for scanning. 
-
-```markdown
 # ArchiveNext
 
 ArchiveNext is a React Native Android app built with Expo, offering a seamless solution for creating, previewing, scanning, and managing document templates such as birth certificates, death certificates, and marriage certificates. With the power of **Google ML Kit** for scanning and document digitization, the app delivers a high-quality user experience for digitizing physical documents, enabling better efficiency and accuracy.
@@ -13,6 +10,45 @@ A video demonstration of the app's features is available below:
 
 [![Watch the video](https://via.placeholder.com/728x90.png?text=Click+to+Watch+the+Demo)](YOUR_VIDEO_LINK_HERE)  
 (*Replace `YOUR_VIDEO_LINK_HERE` with the actual link to your video.*)
+
+---
+
+## App Screenshots
+
+### Home Screen  
+The **Home Screen** serves as the starting point of the app. From here, users can navigate to various features like creating templates, scanning documents, and viewing saved templates. The design is intuitive, ensuring easy access to core functionalities.
+
+![Home Screen](images/first.jpeg)
+
+---
+
+### Create Template Screen  
+This screen allows users to create templates for certificates such as birth, death, or marriage.  
+
+![Create Template Screen]()  
+(*Replace with the actual screenshot of the Create Template Screen.*)
+
+---
+
+### Existing Templates Screen  
+This screen displays all previously created templates. Users can select and edit templates or view their details.  
+
+![Existing Templates Screen](https://via.placeholder.com/400x800.png?text=Existing+Templates+Screen)  
+(*Replace with the actual screenshot of the Existing Templates Screen.*)
+
+---
+
+### Document Save Screen (Before and After Sync)  
+- **Before Sync**: View unsynced documents that are stored locally.  
+- **After Sync**: Documents synced successfully with the server or cloud storage.  
+
+**Before Sync**  
+![Document Save Before Sync](https://via.placeholder.com/400x800.png?text=Document+Save+Before+Sync)  
+(*Replace with the actual screenshot showing documents before sync.*)  
+
+**After Sync**  
+![Document Save After Sync](https://via.placeholder.com/400x800.png?text=Document+Save+After+Sync)  
+(*Replace with the actual screenshot showing documents after sync.*)
 
 ---
 
@@ -137,28 +173,9 @@ Follow these steps to set up the app locally:
 
 ---
 
-## Contribution
-
-If you’d like to contribute to the project, feel free to submit a pull request or file an issue on the [GitHub repository](https://github.com/your-username/ArchiveNext).
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
 
 ## Author
 
 **Your Name**  
 *Optional: Include links to your GitHub, LinkedIn, or other contact info.*
-
-```
-
-### Key Enhancements:
-1. **Video Placement**: Added a section for the video demonstration just below the app description.
-2. **ML Kit Explanation**: Detailed the ML Kit capabilities and customization options.
-3. **Expo Integration**: Highlighted the use of Expo for app setup and deployment.
-4. **Professional Touch**: Added sections for usage, contribution, and license for stakeholder readability.
 
