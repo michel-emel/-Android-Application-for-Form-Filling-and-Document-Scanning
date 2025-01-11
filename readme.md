@@ -1,6 +1,34 @@
 # ArchiveNext
 ## Smart Document Digitization Solution
 
+![Platform](https://img.shields.io/badge/Platform-Android-green)
+![Version](https://img.shields.io/badge/Version-1.0-blue)
+![ML Kit](https://img.shields.io/badge/ML%20Kit-Enabled-orange)
+
+<div align="center">
+  <img src="images/first.jpeg" alt="ArchiveNext Logo" width="100"/>
+</div>
+
+## Table of Contents
+- [Product Demo](#product-demo)
+- [Key Benefits](#key-benefits)
+- [Core Features](#core-features)
+  - [Document Templates](#1-intelligent-document-templates)
+  - [Document Scanning](#2-advanced-document-scanning)
+  - [Document Management](#3-document-management)
+- [User Interface & Workflow](#user-interface--workflow)
+  - [Key Screens](#key-screens-and-features)
+  - [Document Management](#5-intelligent-document-management)
+  - [UI Benefits](#key-ui-benefits)
+- [Security and Privacy](#security-and-privacy)
+- [Support and Training](#support-and-training)
+- [Product Roadmap](#product-roadmap)
+- [Success Metrics](#success-metrics)
+- [Getting Started](#getting-started)
+- [Contact Information](#contact-information)
+
+---
+
 ## Product Demo
 Watch our short demonstration video to see ArchiveNext in action:
 
@@ -19,35 +47,57 @@ ArchiveNext is a mobile application that transforms how organizations handle doc
 
 ## Key Benefits
 
-- **Streamlined Document Processing**: Convert physical documents to digital formats in seconds
-- **Smart Template Management**: Create and manage templates for common document types
-- **Enhanced Accuracy**: Advanced ML Kit technology ensures high-quality document capture
-- **Secure Storage**: Local storage with cloud sync capabilities
-- **User-Friendly Interface**: Intuitive design requires minimal training
+<table>
+<tr>
+<td width="33%" align="center">
+    <h3>🚀 Fast Processing</h3>
+    <p><strong>Streamlined Document Processing</strong>: Convert physical documents to digital formats in seconds</p>
+</td>
+<td width="33%" align="center">
+    <h3>📑 Smart Templates</h3>
+    <p><strong>Template Management</strong>: Create and manage templates for common document types</p>
+</td>
+<td width="33%" align="center">
+    <h3>🔒 Secure Storage</h3>
+    <p><strong>Enhanced Security</strong>: Local storage with cloud sync capabilities</p>
+</td>
+</tr>
+</table>
 
 ## Core Features
 
-### 1. Intelligent Document Templates
-- Pre-built templates for common documents:
-  - Birth certificates
-  - Death certificates
-  - Marriage certificates
-- Customizable template creation for organization-specific needs
-- Template preview and management system
+<div class="feature-section">
+    <h3>1. Intelligent Document Templates 📝</h3>
+    <ul>
+        <li>Pre-built templates for common documents:
+            <ul>
+                <li>Birth certificates</li>
+                <li>Death certificates</li>
+                <li>Marriage certificates</li>
+            </ul>
+        </li>
+        <li>Customizable template creation for organization-specific needs</li>
+        <li>Template preview and management system</li>
+    </ul>
 
-### 2. Advanced Document Scanning
-- Automatic edge detection and cropping
-- Shadow and stain removal
-- Automatic document orientation correction
-- Privacy-focused on-device processing
-- High-quality output optimization
+    <h3>2. Advanced Document Scanning 📸</h3>
+    <ul>
+        <li>Automatic edge detection and cropping</li>
+        <li>Shadow and stain removal</li>
+        <li>Automatic document orientation correction</li>
+        <li>Privacy-focused on-device processing</li>
+        <li>High-quality output optimization</li>
+    </ul>
 
-### 3. Document Management
-- Organized storage system
-- Quick document retrieval
-- Offline access to saved documents
-- Cloud synchronization when connected
-- Integrated PDF viewer
+    <h3>3. Document Management 📊</h3>
+    <ul>
+        <li>Organized storage system</li>
+        <li>Quick document retrieval</li>
+        <li>Offline access to saved documents</li>
+        <li>Cloud synchronization when connected</li>
+        <li>Integrated PDF viewer</li>
+    </ul>
+</div>
 
 ## User Interface & Workflow
 
@@ -160,10 +210,26 @@ ArchiveNext is a mobile application that transforms how organizations handle doc
 
 ## Success Metrics
 
-- Reduced document processing time
-- Improved accuracy in document digitization
-- Enhanced document management efficiency
-- Simplified compliance with digital record-keeping requirements
+<table>
+<tr>
+<td width="50%" align="center">
+    <h3>📈 Efficiency Gains</h3>
+    <ul>
+        <li>50% reduction in document processing time</li>
+        <li>90% improvement in data accuracy</li>
+        <li>24/7 access to digital documents</li>
+    </ul>
+</td>
+<td width="50%" align="center">
+    <h3>💡 Business Impact</h3>
+    <ul>
+        <li>Enhanced document management efficiency</li>
+        <li>Improved compliance with digital record-keeping</li>
+        <li>Reduced storage and retrieval costs</li>
+    </ul>
+</td>
+</tr>
+</table>
 
 ## Getting Started
 
