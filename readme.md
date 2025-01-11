@@ -32,22 +32,26 @@ This screen allows users to create templates for certificates such as birth, dea
 ### Existing Templates Screen  
 This screen displays all previously created templates. Users can select and edit templates or view their details.  
 
-![Existing Templates Screen] (images/third.jpeg)
-
+![Existing Template Screen](images/third.jpeg)  
 
 ---
 
+### Certificate Preview and Scanning  
+The app provides seamless functionality for previewing certificate templates and scanning physical documents. With advanced ML Kit integration, users can digitize documents with high accuracy and efficiency.
+
+![Certificate Preview](images/fourth.jpeg)
+
+
 ### Document Save Screen (Before and After Sync)  
-- **Before Sync**: View unsynced documents that are stored locally.  
-- **After Sync**: Documents synced successfully with the server or cloud storage.  
+- **Before Sync**: View unsynced documents (upload pending)that are stored locally.  
+- **After Sync**: Documents synced successfully (uploaded) with firebase as backend service and storage.  
 
 **Before Sync**  
-![Document Save Before Sync](https://via.placeholder.com/400x800.png?text=Document+Save+Before+Sync)  
-(*Replace with the actual screenshot showing documents before sync.*)  
+![Document Save Before Sync](images/fifth.jpeg)  
+ 
 
 **After Sync**  
-![Document Save After Sync](https://via.placeholder.com/400x800.png?text=Document+Save+After+Sync)  
-(*Replace with the actual screenshot showing documents after sync.*)
+![Document Save After Sync](images/sixth.jpeg)
 
 ---
 
