@@ -48,13 +48,17 @@ The app provides seamless functionality for previewing certificate templates and
 - **Before Sync**: View unsynced documents (upload pending) that are stored locally.  
 - **After Sync**: Documents synced successfully (uploaded) with Firebase as backend service and storage.  
 
-**Before Sync**  
-<img src="images/fifth.jpeg" alt="Document Save Before Sync" width="300" />
+<div style="display: flex; justify-content: space-around; align-items: center; gap: 10px;">
+  <div style="text-align: center;">
+    <strong>Before Sync</strong><br />
+    <img src="images/fifth.jpeg" alt="Document Save Before Sync" width="300" />
+  </div>
+  <div style="text-align: center;">
+    <strong>After Sync</strong><br />
+    <img src="images/sixth.jpeg" alt="Document Save After Sync" width="300" />
+  </div>
+</div>
 
-**After Sync**  
-<img src="images/sixth.jpeg" alt="Document Save After Sync" width="300" />
-
----
 
 ## Features
 
