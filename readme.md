@@ -109,17 +109,21 @@ ArchiveNext is a mobile application that transforms how organizations handle doc
 </tr>
 <tr>
 <td width="50%">
-- **Local Storage**: Immediate access to recent documents<br>
-- **Offline Capability**: Work without internet connection<br>
-- **Batch Processing**: Manage multiple documents simultaneously<br>
-- **Smart Organization**: Automatic document categorization
+<ul>
+    <li><strong>Local Storage</strong>: Immediate access to recent documents</li>
+    <li><strong>Offline Capability</strong>: Work without internet connection</li>
+    <li><strong>Batch Processing</strong>: Manage multiple documents simultaneously</li>
+    <li><strong>Smart Organization</strong>: Automatic document categorization</li>
+</ul>
 </td>
 <td width="50%">
-- **Secure Cloud Storage**: Documents safely stored and backed up<br>
-- **Global Access**: Retrieve documents from anywhere<br>
-- **Version History**: Track document changes<br>
-- **Collaboration Ready**: Share documents securely<br>
-- **Auto-Sync**: Seamless synchronization when connected
+<ul>
+    <li><strong>Secure Cloud Storage</strong>: Documents safely stored and backed up</li>
+    <li><strong>Global Access</strong>: Retrieve documents from anywhere</li>
+    <li><strong>Version History</strong>: Track document changes</li>
+    <li><strong>Collaboration Ready</strong>: Share documents securely</li>
+    <li><strong>Auto-Sync</strong>: Seamless synchronization when connected</li>
+</ul>
 </td>
 </tr>
 </table>
