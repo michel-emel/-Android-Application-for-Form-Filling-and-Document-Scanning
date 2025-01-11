@@ -51,35 +51,50 @@ ArchiveNext is a mobile application that transforms how organizations handle doc
 
 ## User Interface & Workflow
 
-### 1. Streamlined Home Dashboard
+### Key Screens and Features
+
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>1. Streamlined Home Dashboard</h3>
 <img src="images/first.jpeg" alt="Home Screen" width="250"/>
+
 - **Quick Access Dashboard**: All essential functions one tap away
 - **Smart Navigation**: Intuitive layout reduces learning curve
-- **Status Overview**: See pending tasks and recent activities at a glance
+- **Status Overview**: See pending tasks and recent activities
 - **Customizable Shortcuts**: Frequently used features readily available
-
-### 2. Intelligent Template Creation
+</td>
+<td width="50%" align="center">
+<h3>2. Intelligent Template Creation</h3>
 <img src="images/second.jpeg" alt="Create Template" width="250"/>
+
 - **Guided Process**: Step-by-step template creation wizard
 - **Smart Fields**: Automatic field type detection
 - **Preview As You Build**: Real-time template preview
-- **Template Library**: Access to pre-built templates for common documents
-
-### 3. Efficient Template Management
+- **Template Library**: Access to pre-built templates
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h3>3. Efficient Template Management</h3>
 <img src="images/third.jpeg" alt="Existing Templates" width="250"/>
+
 - **Organized Library**: All templates in one searchable location
 - **Quick Edit Access**: Modify templates with one tap
 - **Usage Analytics**: Track most-used templates
 - **Version Control**: Maintain template history
-- **Category Management**: Group templates by department or type
-
-### 4. Advanced Document Preview
+</td>
+<td width="50%" align="center">
+<h3>4. Advanced Document Preview</h3>
 <img src="images/fourth.jpeg" alt="Certificate Preview" width="250"/>
+
 - **Crystal-Clear Display**: High-resolution document preview
 - **Quality Assurance**: Verify document details before saving
 - **Smart Zoom**: Focus on specific document sections
 - **Edit Capabilities**: Make last-minute adjustments
-- **Multi-Format Support**: View documents in various formats
+</td>
+</tr>
+</table>
 
 ### 5. Intelligent Document Management
 
