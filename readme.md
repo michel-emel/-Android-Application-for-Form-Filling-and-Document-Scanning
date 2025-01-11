@@ -6,7 +6,7 @@
 ![ML Kit](https://img.shields.io/badge/ML%20Kit-Enabled-orange)
 
 <div align="center">
-  <img src="images/first.jpeg" alt="ArchiveNext Logo" width="100"/>
+  <img src="images/logo.png" alt="ArchiveNext Logo" width="50"/>
 </div>
 
 ## Table of Contents
