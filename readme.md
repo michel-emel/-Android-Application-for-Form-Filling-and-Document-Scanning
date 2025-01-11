@@ -4,7 +4,7 @@
 ## Product Demo
 Watch our short demonstration video to see ArchiveNext in action:
 
-[![ArchiveNext Demo](images/first.jpeg)](YOUR_VIDEO_LINK)
+<img src="images/first.jpeg" alt="ArchiveNext Demo" width="250"/>
 
 *This video demonstrates:*
 - Document scanning process
@@ -50,21 +50,21 @@ ArchiveNext is a mobile application that transforms how organizations handle doc
 ## User Interface & Workflow
 
 ### 1. Streamlined Home Dashboard
-![Home Screen](images/first.jpeg)
+<img src="images/first.jpeg" alt="Home Screen" width="250"/>
 - **Quick Access Dashboard**: All essential functions one tap away
 - **Smart Navigation**: Intuitive layout reduces learning curve
 - **Status Overview**: See pending tasks and recent activities at a glance
 - **Customizable Shortcuts**: Frequently used features readily available
 
 ### 2. Intelligent Template Creation
-![Create Template](images/second.jpeg)
+<img src="images/second.jpeg" alt="Create Template" width="250"/>
 - **Guided Process**: Step-by-step template creation wizard
 - **Smart Fields**: Automatic field type detection
 - **Preview As You Build**: Real-time template preview
 - **Template Library**: Access to pre-built templates for common documents
 
 ### 3. Efficient Template Management
-![Existing Templates](images/third.jpeg)
+<img src="images/third.jpeg" alt="Existing Templates" width="250"/>
 - **Organized Library**: All templates in one searchable location
 - **Quick Edit Access**: Modify templates with one tap
 - **Usage Analytics**: Track most-used templates
@@ -72,7 +72,7 @@ ArchiveNext is a mobile application that transforms how organizations handle doc
 - **Category Management**: Group templates by department or type
 
 ### 4. Advanced Document Preview
-![Certificate Preview](images/fourth.jpeg)
+<img src="images/fourth.jpeg" alt="Certificate Preview" width="250"/>
 - **Crystal-Clear Display**: High-resolution document preview
 - **Quality Assurance**: Verify document details before saving
 - **Smart Zoom**: Focus on specific document sections
@@ -80,15 +80,22 @@ ArchiveNext is a mobile application that transforms how organizations handle doc
 - **Multi-Format Support**: View documents in various formats
 
 ### 5. Intelligent Document Management
-*Before Cloud Sync*
-![Before Sync](images/fifth.jpeg)
+<div style="display: inline-block; margin-right: 20px;">
+<p><strong>Before Cloud Sync</strong></p>
+<img src="images/fifth.jpeg" alt="Before Sync" width="250"/>
+</div>
+<div style="display: inline-block;">
+<p><strong>After Cloud Sync</strong></p>
+<img src="images/sixth.jpeg" alt="After Sync" width="250"/>
+</div>
+
+#### Before Sync Features:
 - **Local Storage**: Immediate access to recent documents
 - **Offline Capability**: Work without internet connection
 - **Batch Processing**: Manage multiple documents simultaneously
 - **Smart Organization**: Automatic document categorization
 
-*After Cloud Sync*
-![After Sync](images/sixth.jpeg)
+#### After Sync Features:
 - **Secure Cloud Storage**: Documents safely stored and backed up
 - **Global Access**: Retrieve documents from anywhere
 - **Version History**: Track document changes
@@ -142,4 +149,11 @@ Contact our sales team to:
 
 ---
 
-For more information or to schedule a demo, please contact [Your Contact Information]
+## Contact Information
+
+For more information or to schedule a demo, please contact:
+
+**Michel Emel**
+- LinkedIn: [www.linkedin.com/in/michel-emel](www.linkedin.com/in/michel-emel)
+- Email: michel.emel@aims-cameroon.org
+- Phone: +237 659398858
