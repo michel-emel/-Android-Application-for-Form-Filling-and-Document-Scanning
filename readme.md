@@ -1,12 +1,25 @@
 # ArchiveNext
 ## Smart Document Digitization Solution
 
-![Platform](https://img.shields.io/badge/Platform-Android-green)
-![Version](https://img.shields.io/badge/Version-1.0-blue)
-![ML Kit](https://img.shields.io/badge/ML%20Kit-Enabled-orange)
+<table>
+<tr>
+<td align="center" width="33%">
+    <h3>📱 Platform</h3>
+    <strong>Android</strong>
+</td>
+<td align="center" width="33%">
+    <h3>🔄 Version</h3>
+    <strong>1.0</strong>
+</td>
+<td align="center" width="33%">
+    <h3>🤖 ML Kit</h3>
+    <strong>Enabled</strong>
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img src="images/logo.png" alt="ArchiveNext Logo" width="400"/>
+  <img src="images/first.jpeg" alt="ArchiveNext Logo" width="100"/>
 </div>
 
 ## Table of Contents
@@ -24,6 +37,7 @@
 - [Support and Training](#support-and-training)
 - [Product Roadmap](#product-roadmap)
 - [Success Metrics](#success-metrics)
+- [Getting Started](#getting-started)
 - [Contact Information](#contact-information)
 
 ---
@@ -235,6 +249,14 @@ ArchiveNext is a mobile application that transforms how organizations handle doc
 </td>
 </tr>
 </table>
+
+## Getting Started
+
+Contact our sales team to:
+- Schedule a demo
+- Discuss implementation
+- Review pricing options
+- Plan deployment strategy
 
 ---
 
