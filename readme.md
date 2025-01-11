@@ -66,38 +66,44 @@ ArchiveNext is a mobile application that transforms how organizations handle doc
 
 ## Core Features
 
-<div class="feature-section">
-    <h3>1. Intelligent Document Templates 📝</h3>
+<table>
+<tr>
+<td width="33%" align="center">
+    <h3>📝 Intelligent Document Templates</h3>
     <ul>
-        <li>Pre-built templates for common documents:
+        <li><strong>Pre-built Templates:</strong>
             <ul>
                 <li>Birth certificates</li>
                 <li>Death certificates</li>
                 <li>Marriage certificates</li>
             </ul>
         </li>
-        <li>Customizable template creation for organization-specific needs</li>
-        <li>Template preview and management system</li>
+        <li><strong>Custom Templates:</strong> Create organization-specific templates</li>
+        <li><strong>Preview System:</strong> Template preview and management</li>
     </ul>
-
-    <h3>2. Advanced Document Scanning 📸</h3>
+</td>
+<td width="33%" align="center">
+    <h3>📸 Advanced Document Scanning</h3>
     <ul>
-        <li>Automatic edge detection and cropping</li>
-        <li>Shadow and stain removal</li>
-        <li>Automatic document orientation correction</li>
-        <li>Privacy-focused on-device processing</li>
-        <li>High-quality output optimization</li>
+        <li><strong>Smart Detection:</strong> Automatic edge detection and cropping</li>
+        <li><strong>Image Enhancement:</strong> Shadow and stain removal</li>
+        <li><strong>Auto Correction:</strong> Document orientation fix</li>
+        <li><strong>Privacy Focus:</strong> On-device processing</li>
+        <li><strong>Quality Output:</strong> High-quality optimization</li>
     </ul>
-
-    <h3>3. Document Management 📊</h3>
+</td>
+<td width="33%" align="center">
+    <h3>📊 Document Management</h3>
     <ul>
-        <li>Organized storage system</li>
-        <li>Quick document retrieval</li>
-        <li>Offline access to saved documents</li>
-        <li>Cloud synchronization when connected</li>
-        <li>Integrated PDF viewer</li>
+        <li><strong>Organization:</strong> Structured storage system</li>
+        <li><strong>Quick Access:</strong> Fast document retrieval</li>
+        <li><strong>Offline Mode:</strong> Access without internet</li>
+        <li><strong>Cloud Sync:</strong> Automatic synchronization</li>
+        <li><strong>Viewing:</strong> Integrated PDF viewer</li>
     </ul>
-</div>
+</td>
+</tr>
+</table>
 
 ## User Interface & Workflow
 
