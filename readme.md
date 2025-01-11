@@ -18,40 +18,41 @@ A video demonstration of the app's features is available below:
 ### Home Screen  
 The **Home Screen** serves as the starting point of the app. From here, users can navigate to various features like creating templates, scanning documents, and viewing saved templates. The design is intuitive, ensuring easy access to core functionalities.
 
-![Home Screen](images/first.jpeg)
+<img src="images/first.jpeg" alt="Home Screen" width="300" />
 
 ---
 
 ### Create Template Screen  
 This screen allows users to create templates for certificates such as birth, death, or marriage.  
 
-![Create Template Screen](images/second.jpeg)  
+<img src="images/second.jpeg" alt="Create Template Screen" width="300" />
 
 ---
 
 ### Existing Templates Screen  
 This screen displays all previously created templates. Users can select and edit templates or view their details.  
 
-![Existing Template Screen](images/third.jpeg)  
+<img src="images/third.jpeg" alt="Existing Template Screen" width="300" />
 
 ---
 
-### Certificate Preview and Scanning  
+### Certificate Preview
 The app provides seamless functionality for previewing certificate templates and scanning physical documents. With advanced ML Kit integration, users can digitize documents with high accuracy and efficiency.
 
-![Certificate Preview](images/fourth.jpeg)
+#### Certificate Preview
+<img src="images/fourth.jpeg" alt="Certificate Preview" width="300" />
 
+---
 
 ### Document Save Screen (Before and After Sync)  
-- **Before Sync**: View unsynced documents (upload pending)that are stored locally.  
-- **After Sync**: Documents synced successfully (uploaded) with firebase as backend service and storage.  
+- **Before Sync**: View unsynced documents (upload pending) that are stored locally.  
+- **After Sync**: Documents synced successfully (uploaded) with Firebase as backend service and storage.  
 
 **Before Sync**  
-![Document Save Before Sync](images/fifth.jpeg)  
- 
+<img src="images/fifth.jpeg" alt="Document Save Before Sync" width="300" />
 
 **After Sync**  
-![Document Save After Sync](images/sixth.jpeg)
+<img src="images/sixth.jpeg" alt="Document Save After Sync" width="300" />
 
 ---
 
