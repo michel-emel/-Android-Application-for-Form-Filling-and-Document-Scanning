@@ -25,16 +25,15 @@ The **Home Screen** serves as the starting point of the app. From here, users ca
 ### Create Template Screen  
 This screen allows users to create templates for certificates such as birth, death, or marriage.  
 
-![Create Template Screen]()  
-(*Replace with the actual screenshot of the Create Template Screen.*)
+![Create Template Screen](images/second.jpeg)  
 
 ---
 
 ### Existing Templates Screen  
 This screen displays all previously created templates. Users can select and edit templates or view their details.  
 
-![Existing Templates Screen](https://via.placeholder.com/400x800.png?text=Existing+Templates+Screen)  
-(*Replace with the actual screenshot of the Existing Templates Screen.*)
+![Existing Templates Screen] (images/third.jpeg)
+
 
 ---
 
