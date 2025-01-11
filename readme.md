@@ -1,189 +1,145 @@
 # ArchiveNext
+## Smart Document Digitization Solution
 
-ArchiveNext is a React Native Android app built with Expo, offering a seamless solution for creating, previewing, scanning, and managing document templates such as birth certificates, death certificates, and marriage certificates. With the power of **Google ML Kit** for scanning and document digitization, the app delivers a high-quality user experience for digitizing physical documents, enabling better efficiency and accuracy.
+## Product Demo
+Watch our short demonstration video to see ArchiveNext in action:
 
----
+[![ArchiveNext Demo](images/first.jpeg)](YOUR_VIDEO_LINK)
 
-## Demo Video
+*This video demonstrates:*
+- Document scanning process
+- Template creation and management
+- Cloud synchronization
+- Real-time document processing
+- User interface navigation
 
-A video demonstration of the app's features is available below:
+ArchiveNext is a mobile application that transforms how organizations handle document digitization and management. Powered by Google's ML Kit technology, it offers an intelligent, efficient solution for converting physical documents into digital formats.
 
-[![Watch the video](https://via.placeholder.com/728x90.png?text=Click+to+Watch+the+Demo)](YOUR_VIDEO_LINK_HERE)  
-(*Replace `YOUR_VIDEO_LINK_HERE` with the actual link to your video.*)
+## Key Benefits
 
----
+- **Streamlined Document Processing**: Convert physical documents to digital formats in seconds
+- **Smart Template Management**: Create and manage templates for common document types
+- **Enhanced Accuracy**: Advanced ML Kit technology ensures high-quality document capture
+- **Secure Storage**: Local storage with cloud sync capabilities
+- **User-Friendly Interface**: Intuitive design requires minimal training
 
-## App Screenshots
+## Core Features
 
-### Home Screen  
-The **Home Screen** serves as the starting point of the app. From here, users can navigate to various features like creating templates, scanning documents, and viewing saved templates. The design is intuitive, ensuring easy access to core functionalities.
+### 1. Intelligent Document Templates
+- Pre-built templates for common documents:
+  - Birth certificates
+  - Death certificates
+  - Marriage certificates
+- Customizable template creation for organization-specific needs
+- Template preview and management system
 
-<img src="images/first.jpeg" alt="Home Screen" width="300" />
+### 2. Advanced Document Scanning
+- Automatic edge detection and cropping
+- Shadow and stain removal
+- Automatic document orientation correction
+- Privacy-focused on-device processing
+- High-quality output optimization
 
----
+### 3. Document Management
+- Organized storage system
+- Quick document retrieval
+- Offline access to saved documents
+- Cloud synchronization when connected
+- Integrated PDF viewer
 
-### Create Template Screen  
-This screen allows users to create templates for certificates such as birth, death, or marriage.  
+## User Interface & Workflow
 
-<img src="images/second.jpeg" alt="Create Template Screen" width="300" />
+### 1. Streamlined Home Dashboard
+![Home Screen](images/first.jpeg)
+- **Quick Access Dashboard**: All essential functions one tap away
+- **Smart Navigation**: Intuitive layout reduces learning curve
+- **Status Overview**: See pending tasks and recent activities at a glance
+- **Customizable Shortcuts**: Frequently used features readily available
 
----
+### 2. Intelligent Template Creation
+![Create Template](images/second.jpeg)
+- **Guided Process**: Step-by-step template creation wizard
+- **Smart Fields**: Automatic field type detection
+- **Preview As You Build**: Real-time template preview
+- **Template Library**: Access to pre-built templates for common documents
 
-### Existing Templates Screen  
-This screen displays all previously created templates. Users can select and edit templates or view their details.  
+### 3. Efficient Template Management
+![Existing Templates](images/third.jpeg)
+- **Organized Library**: All templates in one searchable location
+- **Quick Edit Access**: Modify templates with one tap
+- **Usage Analytics**: Track most-used templates
+- **Version Control**: Maintain template history
+- **Category Management**: Group templates by department or type
 
-<img src="images/third.jpeg" alt="Existing Template Screen" width="300" />
+### 4. Advanced Document Preview
+![Certificate Preview](images/fourth.jpeg)
+- **Crystal-Clear Display**: High-resolution document preview
+- **Quality Assurance**: Verify document details before saving
+- **Smart Zoom**: Focus on specific document sections
+- **Edit Capabilities**: Make last-minute adjustments
+- **Multi-Format Support**: View documents in various formats
 
----
+### 5. Intelligent Document Management
+*Before Cloud Sync*
+![Before Sync](images/fifth.jpeg)
+- **Local Storage**: Immediate access to recent documents
+- **Offline Capability**: Work without internet connection
+- **Batch Processing**: Manage multiple documents simultaneously
+- **Smart Organization**: Automatic document categorization
 
-### Certificate Preview
-The app provides seamless functionality for previewing certificate templates and scanning physical documents. With advanced ML Kit integration, users can digitize documents with high accuracy and efficiency.
+*After Cloud Sync*
+![After Sync](images/sixth.jpeg)
+- **Secure Cloud Storage**: Documents safely stored and backed up
+- **Global Access**: Retrieve documents from anywhere
+- **Version History**: Track document changes
+- **Collaboration Ready**: Share documents securely
+- **Auto-Sync**: Seamless synchronization when connected
 
-#### Certificate Preview
-<img src="images/fourth.jpeg" alt="Certificate Preview" width="300" />
+### Key UI Benefits
+- **Minimal Training Required**: Intuitive design reduces onboarding time
+- **Error Prevention**: Smart validation prevents common mistakes
+- **Accessibility**: Designed for users of all technical levels
+- **Consistent Experience**: Familiar patterns across all screens
+- **Mobile-Optimized**: Perfect for on-the-go document management
 
----
+## Security and Privacy
 
-### Document Save Screen (Before and After Sync)  
-- **Before Sync**: View unsynced documents (upload pending) that are stored locally.  
-- **After Sync**: Documents synced successfully (uploaded) with Firebase as backend service and storage.  
+- On-device processing ensures document privacy
+- Secure cloud synchronization
+- No third-party access to sensitive data
+- Regular security updates
 
-<div style="display: flex; justify-content: space-around; align-items: center; gap: 10px;">
-  <div style="text-align: center;">
-    <strong>Before Sync</strong><br />
-    <img src="images/fifth.jpeg" alt="Document Save Before Sync" width="300" />
-  </div>
-  <div style="text-align: center;">
-    <strong>After Sync</strong><br />
-    <img src="images/sixth.jpeg" alt="Document Save After Sync" width="300" />
-  </div>
-</div>
+## Support and Training
 
+- In-app tutorials
+- User documentation
+- Technical support available
+- Regular feature updates
 
-## Features
+## Product Roadmap
 
-### Core Functionalities
-- **Template Management**:  
-  - Create templates for certificates (birth, death, marriage).
-  - Preview and save templates for future use.
-  
-- **Document Scanning with ML Kit**:  
-  - High-quality and consistent document digitization with advanced edge detection.
-  - Automatic cropping, rotation, and shadow/stain removal.
-  - On-device processing to preserve user privacy.
+### Upcoming Features
+- Additional document template types
+- Enhanced batch processing
+- Advanced search capabilities
+- Integration with common enterprise systems
+- Multi-language support
 
-- **Saved Document Viewer**:  
-  - Browse, view, and organize saved templates and digitized documents.
-  - Open documents in an integrated PDF Viewer.
+## Success Metrics
 
-- **Intuitive User Experience**:  
-  - Built with React Navigation for smooth app navigation.
-  - Lightweight Expo setup for quick deployment and prototyping.
+- Reduced document processing time
+- Improved accuracy in document digitization
+- Enhanced document management efficiency
+- Simplified compliance with digital record-keeping requirements
 
-### ML Kit Integration
-Using ML Kit's Document Scanner API, the app provides:
-- Automatic document detection and capture.
-- Editing capabilities (cropping, filters, shadow removal, etc.).
-- Privacy-focused, on-device processing without needing camera permissions.
-- Low binary size impact by leveraging Google Play services.
+## Getting Started
 
----
-
-## App Structure
-
-The project is structured for scalability and maintainability:
-
-```
-src/
-├── assets
-│   ├── logo.png
-│   └── michel_logo.png
-├── components
-│   ├── AppFooter.js
-│   ├── CustomFormComponents.js
-│   ├── Header.js
-│   └── SectionHeader.js
-├── screens
-│   ├── BirthCertificateForm.js
-│   ├── CreateTemplateScreen.js
-│   ├── DeathCertificateForm.js
-│   ├── ExistingTemplatesScreen.js
-│   ├── HomeScreen.js
-│   ├── MarriageCertificateForm.js
-│   ├── PDFViewerScreen.js
-│   ├── PreviewBirthCertificateScreen.js
-│   ├── ScanScreen.js
-│   ├── TemplateSuccessScreen.js
-│   ├── ViewCertificateScreen.js
-│   └── ViewSavedDocumentsScreen.js
-└── utils
-    ├── fileManager.js
-    ├── firebase
-    │   ├── config.js
-    │   └── firebaseService.js
-    ├── storage
-    │   ├── certificateStorage.js
-    │   └── index.js
-    └── sync
-        └── syncService.js
-```
-
----
-
-## Installation
-
-Follow these steps to set up the app locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ArchiveNext.git
-   cd ArchiveNext
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Install Expo CLI globally if not already installed:
-   ```bash
-   npm install -g expo-cli
-   ```
-
-4. Set up Firebase configuration in `src/utils/firebase/config.js`.
-
-5. Start the development server:
-   ```bash
-   expo start
-   ```
-
-6. Run the app:
-   - On an Android Emulator or connected device:
-     ```bash
-     expo run:android
-     ```
-   - Or via the Expo Go app by scanning the QR code from the terminal.
+Contact our sales team to:
+- Schedule a demo
+- Discuss implementation
+- Review pricing options
+- Plan deployment strategy
 
 ---
 
-## Usage
-
-### ML Kit Document Scanner API
-- **Scanner Modes**: Choose between `SCANNER_MODE_BASE`, `SCANNER_MODE_BASE_WITH_FILTER`, or `SCANNER_MODE_FULL` for editing and cleaning capabilities.
-- **Customizations**:  
-  - Limit the number of pages scanned.  
-  - Enable or disable gallery import.  
-
-### Supported Actions
-- Create templates for certificates.
-- Scan physical documents and digitize them with advanced filters.
-- View saved templates and export them as PDF files.
-
----
-
-
-## Author
-
-**Your Name**  
-*Optional: Include links to your GitHub, LinkedIn, or other contact info.*
-
+For more information or to schedule a demo, please contact [Your Contact Information]
