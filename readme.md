@@ -6,7 +6,7 @@
 ![ML Kit](https://img.shields.io/badge/ML%20Kit-Enabled-orange)
 
 <div align="center">
-  <img src="images/logo.png" alt="ArchiveNext Logo" width="500"/>
+  <img src="images/logo.png" alt="ArchiveNext Logo" width="400"/>
 </div>
 
 ## Table of Contents
@@ -24,7 +24,6 @@
 - [Support and Training](#support-and-training)
 - [Product Roadmap](#product-roadmap)
 - [Success Metrics](#success-metrics)
-- [Getting Started](#getting-started)
 - [Contact Information](#contact-information)
 
 ---
@@ -236,14 +235,6 @@ ArchiveNext is a mobile application that transforms how organizations handle doc
 </td>
 </tr>
 </table>
-
-## Getting Started
-
-Contact our sales team to:
-- Schedule a demo
-- Discuss implementation
-- Review pricing options
-- Plan deployment strategy
 
 ---
 
