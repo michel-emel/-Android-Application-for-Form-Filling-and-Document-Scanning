@@ -4,7 +4,9 @@
 ## Product Demo
 Watch our short demonstration video to see ArchiveNext in action:
 
-<img src="images/first.jpeg" alt="ArchiveNext Demo" width="250"/>
+<p align="center">
+  <img src="images/first.jpeg" alt="ArchiveNext Demo" width="250"/>
+</p>
 
 *This video demonstrates:*
 - Document scanning process
