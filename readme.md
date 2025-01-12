@@ -33,7 +33,7 @@
 <table>
 <tr>
 <td width="50%" align="center">
-    <img src="archive_next.gif" alt="ArchiveNext Demo" width="250"/>
+    [![Watch Demo](images/logo.png)](https://drive.google.com/file/d/16Sp03sVnbk9oFNNfNSjn85PGhjTSjXx1/view?usp=drive_link)
 </td>
 <td width="50%">
     <h3>Watch ArchiveNext in action</h3>
