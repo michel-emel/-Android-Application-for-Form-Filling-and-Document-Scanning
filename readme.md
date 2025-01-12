@@ -31,10 +31,10 @@
 ## Product Demo
 Watch our short demonstration video to see ArchiveNext in action:
 
-<video width="600" controls>
-  <source src="archive_next.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div align="center">
+  <img src="archive_next.gif" alt="ArchiveNext Demo" width="600"/>
+</div>
+
 
 
 
