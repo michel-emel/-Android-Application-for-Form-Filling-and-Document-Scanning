@@ -32,7 +32,7 @@
 Watch our short demonstration video to see ArchiveNext in action:
 
 <div align="center">
-  <img src="archive_next.gif" alt="ArchiveNext Demo" width="600"/>
+  <img src="archive_next.gif" alt="ArchiveNext Demo" width="400"/>
 </div>
 
 
