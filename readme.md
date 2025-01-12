@@ -32,8 +32,12 @@
 Watch our short demonstration video to see ArchiveNext in action:
 
 <p align="center">
-  <img src="images/first.jpeg" alt="ArchiveNext Demo" width="250"/>
+  <video width="250" controls>
+    <source src="archive_next.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
+
 
 *This video demonstrates:*
 - Document scanning process
