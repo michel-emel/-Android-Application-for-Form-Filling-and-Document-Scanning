@@ -28,24 +28,27 @@
 
 ---
 
-## Product Demo
-Watch our short demonstration video to see ArchiveNext in action:
+# Product Demo
 
-<div align="center">
-  <img src="archive_next.gif" alt="ArchiveNext Demo" width="250"/>
-</div>
-
-
-
-
-*This video demonstrates:*
-- Document scanning process
-- Template creation and management
-- Cloud synchronization
-- Real-time document processing
-- User interface navigation
-
-ArchiveNext is a mobile application that transforms how organizations handle document digitization and management. Powered by Google's ML Kit technology, it offers an intelligent, efficient solution for converting physical documents into digital formats.
+<table>
+<tr>
+<td width="50%" align="center">
+    <img src="archive_next.gif" alt="ArchiveNext Demo" width="250"/>
+</td>
+<td width="50%">
+    <h3>Watch ArchiveNext in action</h3>
+    This demo showcases:
+    <ul>
+        <li>🔍 Document scanning process</li>
+        <li>📑 Template creation and management</li>
+        <li>☁️ Cloud synchronization</li>
+        <li>⚡ Real-time document processing</li>
+        <li>📱 User interface navigation</li>
+    </ul>
+    <p>ArchiveNext is a mobile application that transforms how organizations handle document digitization and management. Powered by Google's ML Kit technology, it offers an intelligent, efficient solution for converting physical documents into digital formats.</p>
+</td>
+</tr>
+</table>
 
 ## Key Benefits
 
