@@ -6,7 +6,7 @@
 ![ML Kit](https://img.shields.io/badge/ML%20Kit-Enabled-orange)
 
 <div align="center">
-  <img src="images/logo.png" alt="ArchiveNext Logo" width="400"/>
+  <img src="asset/images/logo.png" alt="ArchiveNext Logo" width="400"/>
 </div>
 
 ## Table of Contents
@@ -33,7 +33,7 @@
 <table>
 <tr>
 <td width="50%" align="center">
-    <img src="archive_next.gif" alt="ArchiveNext Demo" width="250"/>
+    <img src="asset/gif/archive_next.gif" alt="ArchiveNext Demo" width="250"/>
 </td>
 <td width="50%">
     <h3>Watch ArchiveNext in action</h3>
@@ -118,7 +118,7 @@
 <tr>
 <td width="50%" align="center">
 <h3>1. Streamlined Home Dashboard</h3>
-<img src="images/first.jpeg" alt="Home Screen" width="250"/>
+<img src="asset/images/first.jpeg" alt="Home Screen" width="250"/>
 
 - **Quick Access Dashboard**: All essential functions one tap away
 - **Smart Navigation**: Intuitive layout reduces learning curve
@@ -127,7 +127,7 @@
 </td>
 <td width="50%" align="center">
 <h3>2. Intelligent Template Creation</h3>
-<img src="images/second.jpeg" alt="Create Template" width="250"/>
+<img src="asset/images/second.jpeg" alt="Create Template" width="250"/>
 
 - **Guided Process**: Step-by-step template creation wizard
 - **Smart Fields**: Automatic field type detection
@@ -138,7 +138,7 @@
 <tr>
 <td width="50%" align="center">
 <h3>3. Efficient Template Management</h3>
-<img src="images/third.jpeg" alt="Existing Templates" width="250"/>
+<img src="asset/images/third.jpeg" alt="Existing Templates" width="250"/>
 
 - **Organized Library**: All templates in one searchable location
 - **Quick Edit Access**: Modify templates with one tap
@@ -147,7 +147,7 @@
 </td>
 <td width="50%" align="center">
 <h3>4. Advanced Document Preview</h3>
-<img src="images/fourth.jpeg" alt="Certificate Preview" width="250"/>
+<img src="asset/images/fourth.jpeg" alt="Certificate Preview" width="250"/>
 
 - **Crystal-Clear Display**: High-resolution document preview
 - **Quality Assurance**: Verify document details before saving
@@ -165,8 +165,8 @@
 <td width="50%" align="center"><strong>After Cloud Sync</strong></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="images/fifth.jpeg" alt="Before Sync" width="250"/></td>
-<td width="50%" align="center"><img src="images/sixth.jpeg" alt="After Sync" width="250"/></td>
+<td width="50%" align="center"><img src="asset/images/fifth.jpeg" alt="Before Sync" width="250"/></td>
+<td width="50%" align="center"><img src="asset/images/sixth.jpeg" alt="After Sync" width="250"/></td>
 </tr>
 <tr>
 <td width="50%">
